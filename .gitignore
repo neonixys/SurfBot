@@ -1,4 +1,7 @@
 # Исключение файла .env
 .env
-.target_chat_ids.txt
-.chat_ids.txt
+
+
+# Исключение файлов с данными
+*.target_chat_ids.txt
+*.chat_ids.txt
