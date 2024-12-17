@@ -3,5 +3,5 @@
 
 
 # Исключение файлов с данными
-*target_chat_ids.txt
-*chat_ids.txt
+target_chat_ids.txt
+chat_ids.txt
